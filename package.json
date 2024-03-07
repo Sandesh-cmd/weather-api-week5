@@ -7,7 +7,7 @@
     "node": ">= 18.12 <21"
   },
   "license": "MIT",
-  "author": "Sandesh Paudel",
+  "author": "Sandy Paudel",
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
     "express": "^4.18.3",
