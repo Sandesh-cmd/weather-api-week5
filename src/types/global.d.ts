@@ -1,6 +1,7 @@
 interface WeatherData {
+    city:string;
     temperature: number;
-    humidity: number;
+    humidity: Number;
     wind: number;
     rain: number;
      }
